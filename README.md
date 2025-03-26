@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 I’m currently learning at Sri Lanka Institute of Information Technology
 
 <!--
 **LochanaLithira/LochanaLithira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
