@@ -121,7 +121,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LochanaLithira&theme=blue-green">
 </div>
 <br>
 
