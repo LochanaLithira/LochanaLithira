@@ -116,7 +116,7 @@
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LochanaLithira\&theme=chartreuse-dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 <br>
-
+<br>
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 </div>
