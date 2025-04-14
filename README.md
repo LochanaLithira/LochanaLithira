@@ -119,6 +119,12 @@
 <br>
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=LochanaLithira&show_icons=true&hide_border=true&theme=chartreuse-dark" width="37%" alt="Sumanth's Top Languages">
 
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
+</div>
+<br>
+
 </div>
 
 <br><br>
