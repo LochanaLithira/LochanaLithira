@@ -117,7 +117,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 </div>
 
