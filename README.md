@@ -130,7 +130,7 @@
 
 ![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LochanaLithira&custom_title=Lochana's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br>
-
+<br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
