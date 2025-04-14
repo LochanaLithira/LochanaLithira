@@ -96,7 +96,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br> -->
-
+<br/>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -120,6 +120,7 @@
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=LochanaLithira&show_icons=true&hide_border=true&theme=chartreuse-dark" width="37%" alt="Sumanth's Top Languages">
 
 </div>
+<br/>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
