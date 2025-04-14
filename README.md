@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page&speed=40">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Welcome+%2C+to+Lochana+Lithira's+Github+profile&speed=40">
 </a>
 
 
