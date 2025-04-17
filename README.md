@@ -105,9 +105,9 @@
 <div align="center">
 <br>
 
-<p align="center">
+
   ![](https://nirzak-streak-stats.vercel.app/?user=LochanaLithira&theme=chartreuse-dark&hide_border=false)<br/>
- </p>
+
  
 <br>
 <br>
