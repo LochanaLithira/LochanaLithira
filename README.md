@@ -85,6 +85,8 @@
 
 <h3 align="left">Trophy:</h3>
 
+![](https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
