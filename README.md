@@ -150,6 +150,21 @@
 
 -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LochanaLithira&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LochanaLithira&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LochanaLithira&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LochanaLithira&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LochanaLithira&icon=9&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
