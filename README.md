@@ -106,29 +106,8 @@
 <br>
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
   ![](https://nirzak-streak-stats.vercel.app/?user=LochanaLithira&theme=chartreuse-dark&hide_border=false)
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
  </p>
-
- <p align="center">
-   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-</p>
-
-<p align="center">
-   <!-- Direct Markdown Image Approach for Stats -->
-   ![Stats Widget](https://nirzak-streak-stats.vercel.app/?user=LochanaLithira&theme=chartreuse-dark&hide_border=false)
-</p>
-
-<p align="center">
-   <!-- iframe Approach for Stats Widget -->
-   <iframe src="https://nirzak-streak-stats.vercel.app/?user=LochanaLithira&theme=chartreuse-dark&hide_border=false" width="400" height="150" frameborder="0"></iframe>
-</p>
-
-<p align="center">
-   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
-</p>
-
  
 <br>
 <br>
