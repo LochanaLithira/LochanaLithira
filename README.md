@@ -110,7 +110,7 @@
 <br>
 <br>
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LochanaLithira\&theme=chartreuse-dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![](https://github-readme-stats.vercel.app/api?username=LochanaLithira&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <br>
 <br>
