@@ -112,6 +112,8 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=LochanaLithira&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api?username=LochanaLithira&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 <br>
 <br>
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=LochanaLithira&show_icons=true&hide_border=true&theme=chartreuse-dark" width="37%" alt="Sumanth's Top Languages">
