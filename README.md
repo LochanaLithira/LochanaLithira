@@ -5,8 +5,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Lochana Lithira</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h3 align="center">A Passionate Machine Learning & Data Science Enthusiast from Sri Lanka</h3>
+<p align="center">
+I am deeply fascinated by how intelligent systems 🤖 and data-driven technologies 📊 are transforming the modern world. Witnessing the rapid evolution of Machine Learning and Artificial Intelligence inspired me to pursue software engineering with a focus on ML and Data Science. My passion continues to grow as I explore new algorithms, analyze real-world data, and build innovative solutions that make technology smarter and more impactful 🚀
+</p>
+
 
 <h3 align="center"><b>Visitor's Count</b></h3>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BLochanaLithira%7D/count.svg" alt="visitor badge"/></p>
