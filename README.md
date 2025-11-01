@@ -12,7 +12,7 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 
 
 <h3 align="center"><b>Visitor's Count</b></h3>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BLochanaLithira%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><![](https://komarev.com/ghpvc/?username=LochanaLithira&abbreviated=true)</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
