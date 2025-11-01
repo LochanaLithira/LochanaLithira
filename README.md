@@ -14,10 +14,10 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 ### 👀 Profile analytics (last 14 days)
 
 <!--PROFILE_STATS_START-->
-**Total views (last 14 days):** 5  
-**Unique visitors (last 14 days):** 1  
-*(last updated: 2025-11-01 10:34 UTC)*
+**Total views:** _loading..._  
+**Unique visitors:** _loading..._
 <!--PROFILE_STATS_END-->
+
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
