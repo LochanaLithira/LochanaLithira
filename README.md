@@ -14,13 +14,16 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 <h3 align="center">👀 <b>Visitor's Count</b></h3>
 
 <!--PROFILE_STATS_START-->
-**Total views (last 14 days):** 5  
-**Unique visitors (last 14 days):** 1  
 
-**All-time views (tracked):** 5  
-**All-time unique visitors (tracked, approx):** 1  
+<p align="center">
+  <img src="https://img.shields.io/badge/Views%20(14d)-5-1e90ff?style=flat-square&logo=github" alt="14-day views"/>
+  <img src="https://img.shields.io/badge/Unique%20Visitors%20(14d)-1-8a2be2?style=flat-square&logo=github"/><br><br>
+  <img src="https://img.shields.io/badge/All--Time%20Views-5-00c853?style=flat-square&logo=google-analytics"/>
+  <img src="https://img.shields.io/badge/All--Time%20Visitors-1-2e7d32?style=flat-square&logo=google-analytics"/>
+</p>
 
-*(last updated: 2025-11-01 10:54 UTC)*
+<p align="center"><sub>Last updated: 2025-11-01 11:00 UTC</sub></p>
+
 <!--PROFILE_STATS_END-->
 
 
