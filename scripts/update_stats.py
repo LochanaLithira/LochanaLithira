@@ -101,13 +101,16 @@ def main():
     total_uniques = sum(item.get("uniques", 0) for item in history)
 
     # create the block to insert into README
-    new_block = (
-        f"**Total views (last 14 days):** {count}  \n"
-        f"**Unique visitors (last 14 days):** {uniques}  \n\n"
-        f"**All-time views (tracked):** {total_views}  \n"
-        f"**All-time unique visitors (tracked, approx):** {total_uniques}  \n\n"
-        f"*(last updated: {timestamp})*"
-    )
+    new_block = f"""
+<p align="center">
+  <img src="https://img.shields.io/badge/Views%20(14d)-{count}-1e90ff?style=flat-square&logo=github" alt="14-day views"/>
+  <img src="https://img.shields.io/badge/Unique%20Visitors%20(14d)-{uniques}-8a2be2?style=flat-square&logo=github"/><br><br>
+  <img src="https://img.shields.io/badge/All--Time%20Views-{total_views}-00c853?style=flat-square&logo=google-analytics"/>
+  <img src="https://img.shields.io/badge/All--Time%20Visitors-{total_uniques}-2e7d32?style=flat-square&logo=google-analytics"/>
+</p>
+
+<p align="center"><sub>Last updated: {timestamp}</sub></p>
+"""
 
     updated = update_readme(README_PATH, START_TAG, END_TAG, new_block)
 
