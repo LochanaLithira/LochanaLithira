@@ -11,17 +11,17 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 </p>
 
 
-### 👀 Profile analytics (last 14 days)
+### 👀 Profile Analytics
 
 <!--PROFILE_STATS_START-->
-**Total views (last 14 days):** 5  
-**Unique visitors (last 14 days):** 1  
-
-**All-time views (tracked):** 5  
-**All-time unique visitors (tracked, approx):** 1  
-
-*(last updated: 2025-11-01 10:46 UTC)*
+<p align="center">
+  <img src="https://img.shields.io/badge/Views%20(14d)-_loading_-blue?style=for-the-badge" alt="14-day views"/>
+  <img src="https://img.shields.io/badge/Unique%20Visitors%20(14d)-_loading_-blueviolet?style=for-the-badge"/><br>
+  <img src="https://img.shields.io/badge/All--Time%20Views-_loading_-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/All--Time%20Visitors-_loading_-success?style=for-the-badge"/>
+</p>
 <!--PROFILE_STATS_END-->
+
 
 
 
