@@ -11,12 +11,18 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 </p>
 
 
-### 👀 Profile analytics (last 14 days)
+<h3 align="center">👀 <b>Visitor's Count</b></h3>
 
 <!--PROFILE_STATS_START-->
-**Total views:** _loading..._  
-**Unique visitors:** _loading..._
+**Total views (last 14 days):** 5  
+**Unique visitors (last 14 days):** 1  
+
+**All-time views (tracked):** 5  
+**All-time unique visitors (tracked, approx):** 1  
+
+*(last updated: 2025-11-01 10:54 UTC)*
 <!--PROFILE_STATS_END-->
+
 
 
 
