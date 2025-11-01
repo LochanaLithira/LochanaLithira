@@ -14,8 +14,9 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 ### 👀 Profile analytics (last 14 days)
 
 <!--PROFILE_STATS_START-->
-**Total views:** _loading..._  
-**Unique visitors:** _loading..._
+**Total views (last 14 days):** 5  
+**Unique visitors (last 14 days):** 1  
+*(last updated: 2025-11-01 10:34 UTC)*
 <!--PROFILE_STATS_END-->
 
 
