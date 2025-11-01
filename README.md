@@ -11,11 +11,12 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 </p>
 
 
-<h3 align="center"><b>Visitor's Count</b></h3>
+### 👀 Profile analytics (last 14 days)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LochanaLithira&label=Profile%20views&color=0e75b6&style=flat" alt="LochanaLithira" />
-</p>
+<!--PROFILE_STATS_START-->
+**Total views:** _loading..._  
+**Unique visitors:** _loading..._
+<!--PROFILE_STATS_END-->
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
