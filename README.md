@@ -15,8 +15,8 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 
 <!--PROFILE_STATS_START-->
 <p align="center">
-  <img src="https://img.shields.io/badge/Views%20(14d)-_loading_-1e90ff?style=flat-square&logo=github" alt="14-day views"/>
-  <img src="https://img.shields.io/badge/Unique%20Visitors%20(14d)-_loading_-8a2be2?style=flat-square&logo=github"/><br><br>
+  <img src="https://img.shields.io/badge/Views%20(Last 14 days)-_loading_-1e90ff?style=flat-square&logo=github" alt="14-day views"/>
+  <img src="https://img.shields.io/badge/Unique%20Visitors%20(Last 14 days)-_loading_-8a2be2?style=flat-square&logo=github"/><br><br>
   <img src="https://img.shields.io/badge/All--Time%20Views-_loading_-00c853?style=flat-square&logo=google-analytics"/>
   <img src="https://img.shields.io/badge/All--Time%20Visitors-_loading_-2e7d32?style=flat-square&logo=google-analytics"/>
 </p>
