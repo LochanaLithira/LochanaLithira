@@ -11,7 +11,7 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 </p>
 
 
-### 👀 Profile Analytics
+<h3 align="center"><b>👀 Visitor's Count</b></h3>
 
 <!--PROFILE_STATS_START-->
 <p align="center">
@@ -21,7 +21,6 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
   <img src="https://img.shields.io/badge/All--Time%20Visitors-_loading_-success?style=for-the-badge"/>
 </p>
 <!--PROFILE_STATS_END-->
-
 
 
 
