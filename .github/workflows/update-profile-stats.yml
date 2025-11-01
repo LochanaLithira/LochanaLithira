@@ -2,8 +2,8 @@ name: Update profile stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 0 * * *'   # daily at 00:00 UTC
+  workflow_dispatch:      # manual trigger allowed
 
 permissions:
   contents: write
@@ -11,10 +11,11 @@ permissions:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,20 +23,21 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: python -m pip install --upgrade pip requests
 
-      - name: Run script
+      - name: Run update script (fetch traffic & update files)
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}   # used to call traffic API
+          # GITHUB_REPOSITORY_OWNER and GITHUB_REPOSITORY are set automatically in Actions
         run: python scripts/update_stats.py
 
-      - name: Commit and push if changed
+      - name: Commit & push changes (if any)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m "Update profile stats [skip ci]"
+            git add README.md data/traffic_history.json
+            git commit -m "chore: update profile traffic stats [skip ci]"
             git push
           else
             echo "No changes to commit"
