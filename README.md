@@ -105,7 +105,7 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 
