@@ -101,11 +101,11 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3 align="left">Trophy:</h3>
-
+<h3 align="left">GitHub Trophies:</h3>
+<br>
 ![](https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
- <br><br>
+ <br>
 <br/>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
