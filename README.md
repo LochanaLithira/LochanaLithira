@@ -106,14 +106,14 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
-<!-- <div align="center">
+< <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
- <br><br> -->
+ <br><br>
 <br/>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
