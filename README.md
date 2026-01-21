@@ -16,13 +16,13 @@ I am deeply fascinated by how intelligent systems 🤖 and data-driven technolog
 <!--PROFILE_STATS_START-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Views%20(14d)-0-1e90ff?style=flat-square&logo=github" alt="14-day views"/>
-  <img src="https://img.shields.io/badge/Unique%20Visitors%20(14d)-0-8a2be2?style=flat-square&logo=github"/><br><br>
-  <img src="https://img.shields.io/badge/All--Time%20Views-1503-00c853?style=flat-square&logo=google-analytics"/>
-  <img src="https://img.shields.io/badge/All--Time%20Visitors-18-2e7d32?style=flat-square&logo=google-analytics"/>
+  <img src="https://img.shields.io/badge/Views%20(14d)-1-1e90ff?style=flat-square&logo=github" alt="14-day views"/>
+  <img src="https://img.shields.io/badge/Unique%20Visitors%20(14d)-1-8a2be2?style=flat-square&logo=github"/><br><br>
+  <img src="https://img.shields.io/badge/All--Time%20Views-1504-00c853?style=flat-square&logo=google-analytics"/>
+  <img src="https://img.shields.io/badge/All--Time%20Visitors-19-2e7d32?style=flat-square&logo=google-analytics"/>
 </p>
 
-<p align="center"><sub>Last updated: 2026-01-20 00:58 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-01-21 01:00 UTC</sub></p>
 
 <!--PROFILE_STATS_END-->
 
